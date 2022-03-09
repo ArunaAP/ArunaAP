@@ -60,7 +60,7 @@
 <a href = "https://www.linkedin.com/in/aruna-priyankara-93ba21216/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.facebook.com/priyankara.wijesinghe.9"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
 <a href = "https://www.instagram.com/priyankara_wijesinghe/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UCsATeImCajnC_uEcRyvYR4w"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.youtube.com/channel/UC5V0bN4LiEL9S8NHCBCpR3w"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
 
