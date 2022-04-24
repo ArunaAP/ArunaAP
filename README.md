@@ -65,7 +65,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/ArunaAp/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=ArunaAP">
 </a>
 <a href="https://github.com/ArunaAP?tab=followers"><img src="https://img.shields.io/github/followers/ArunaAP?label=Followers&style=social" alt="GitHub Badge"></a>
