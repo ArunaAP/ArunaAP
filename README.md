@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png](https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif" />
 
 <h1 align="center">Hi, I'm Aruna</h1>
 <h3 align="center">I'm a 23 years old Software Engineering Undergraduate from Sri Lanka..</h3>
