@@ -1,5 +1,8 @@
 
-<img  width="100%" height="auto" src="https://miro.medium.com/max/1838/1*y93jZzftu0aJQyc0SjEmTg.gif" />
+
+<img  width="100%" height="auto" src="http://www.animatedgif.net/bulletsballs/bounce-1_e0.gif" />
+
+
 <h1 align="center">Hi, I'm Aruna</h1>
 <h3 align="center">I'm a 23 years old Software Engineering Undergraduate from Sri Lanka..</h3>
 
