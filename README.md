@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi, I'm Aruna</h1>
-<h3 align="center">I'm a 25 years old Software Engineering Undergraduate from Sri Lanka. @     SLIIT</h3>
+<h3 align="center">I'm a 25 years old Software Engineer from Sri Lanka. Graduated @     SLIIT</h3>
 
 
 
