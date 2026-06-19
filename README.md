@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi, I'm Aruna</h1>
-<h3 align="center">I'm a 25 years old Software Engineer from Sri Lanka. Graduated @     SLIIT</h3>
+<h3 align="center">I'm a Founder of The IQONEX and Software engineer in Sri Lanka</h3>
 
 
 
